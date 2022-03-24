@@ -8,7 +8,7 @@ steps{
 echo "Build the Application...."
 }
 }
-stage{'Test')
+stage('Test')
 {
 steps{
 echo "test the Application...."
